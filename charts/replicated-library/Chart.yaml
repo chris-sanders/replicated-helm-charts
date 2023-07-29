@@ -1,5 +1,5 @@
 apiVersion: v2
-name: replicated-library
+name: replicated-library-csanders
 description: Replicated library chart
 type: library
 version: 0.13.9-beta.1
